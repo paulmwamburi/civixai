@@ -86,13 +86,11 @@ Inclusive in participation
 
 Accountable in governance
 
-🧑‍💻 Team Roles (if applicable)
-Role	Responsibility
-Project Lead	Coordination & architecture
-Data Scientist	Model explainability & fairness
-Frontend Dev	Dashboard & visualization
-Backend Dev	API & data handling
-Policy Analyst	Ethical and civic alignment
+✅ Live Links
+website: https://civixai.lovable.app/
+pitch deck: https://www.pi.inc/docs/371729692025949?t=8c7b6cd475ad14cc25a96c54c99bcccd#
+Video: https://www.loom.com/share/cb99c2d6a5794a59966bbc2501c600d1
+
 🚀 Getting Started
 1️⃣ Clone the Repository
 git clone https://github.com/your-username/civixai.git
