@@ -87,8 +87,8 @@ Inclusive in participation
 Accountable in governance
 
 ✅ Live Links
-website: https://civixai.lovable.app/
-pitch deck: https://www.pi.inc/docs/371729692025949?t=8c7b6cd475ad14cc25a96c54c99bcccd#
+Website: https://civixai.lovable.app/
+Pitch deck: https://www.pi.inc/docs/371729692025949?t=8c7b6cd475ad14cc25a96c54c99bcccd#
 Video: https://www.loom.com/share/cb99c2d6a5794a59966bbc2501c600d1
 
 🚀 Getting Started
